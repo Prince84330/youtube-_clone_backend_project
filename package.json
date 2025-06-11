@@ -1,0 +1,25 @@
+{
+  "name": "back_project_by-chaiororcode",
+  "version": "1.0.0",
+  "description": "- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince84330/youtube-_clone_backend_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prince84330/youtube-_clone_backend_project/issues"
+  },
+  "homepage": "https://github.com/Prince84330/youtube-_clone_backend_project#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
